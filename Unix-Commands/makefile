@@ -4,7 +4,7 @@ all:
 	gcc mkdir.c -o mkdir
 	gcc rm.c -o rm
 	gcc date.c -o date
-	gcc abc.c -o abc
+	gcc internal_commands.c -o internal_commands
 	./abc
 clean:
 	rm -f *o
