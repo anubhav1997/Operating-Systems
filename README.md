@@ -11,5 +11,7 @@
 ### Repository Structure
 - Directory `Unix-Commands/` contains the implementation of the mentioned Unix Commands: 
   i. Makefile to compile the source and generate the running binary for the shell can be found in `Unix-Commands/Makefile`
+  
   ii. Implementation of `ls` can be found in `Unix-Commands/ls.c`
+  
   
